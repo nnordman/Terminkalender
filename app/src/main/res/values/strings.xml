@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">Beaf</string>
+
+    <!--<string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>-->
+
+
+    <string name="hint_user_id" translatable="false">User ID</string>
+    <string name="get_custom_token" translatable="false">Get Token</string>
+    <string name="sign_in" translatable="false">Sign In</string>
+    <string name="enter" translatable="false">Enter</string>
+    <string name="create_account" translatable="false">Create Account</string>
+    <string name="sign_out" translatable="false">Sign Out</string>
+    <string name="verify_email" translatable="false">Verify Email</string>
+    <string name="loading">Loading…</string>
+    <string name="signed_in" translatable="false">Signed In</string>
+    <string name="signed_out" translatable="false">Signed Out</string>
+    <string name="hint_email" translatable="false">Email</string>
+    <string name="hint_password" translatable="false">Password</string>
+    <string name="desc_firebase_lockup" translatable="false">Firebase logo and name</string>
+    <string name="auth_failed" translatable="false">Authentication failed</string>
+    <string name="verify_phone_auth" translatable="false">Verify</string>
+    <string name="status_sign_in_failed" translatable="false">Sign-in failed</string>
+    <string name="firebase_status_fmt" translatable="false">User logged in as: %s</string>
+    <string name="title_activity_menu" translatable="false">Menu</string>
+    <string name="add_person">Add person</string>
+    <string name="add_persons">Add persons</string>
+    <string name="save">Save</string>
+    <string name="plus" translatable="false">+</string>
+    <string name="event_name">Event name</string>
+    <string name="location">Location</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="person" translatable="false">Person</string>
+    <string name="notes">Notes</string>
+    <string name="id" translatable="false">ID</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="faq" translatable="false">FAQ</string>
+    <string name="imprint">Imprint</string>
+    <string name="required">Required</string>
+    <string name="event_created">Event created</string>
+    <string name="persons_saved">Persons saved</string>
+    <string name="no_person_created">No person created</string>
+    <string name="no_events_created">No events created</string>
+    <string name="calendar">Calendar</string>
+    <string name="create_event">Create event</string>
+    <string name="events">Events</string>
+    <string name="in_app_purchase">In-app purchase</string>
+    <string name="saved">Saved</string>
+    <string name="deleted">Deleted</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="search">Search</string>
+    <string name="imprint_example">imprint_example</string>
+    <string name="minus">-</string>
+    <string name="alarm">Activate alarm</string>
+
+    <array name="material_calendar_months_array">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </array>
+
+</resources>

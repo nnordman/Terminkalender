@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "937833588792",
+    "firebase_url": "https://android-beaf.firebaseio.com",
+    "project_id": "android-beaf",
+    "storage_bucket": "android-beaf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937833588792:android:c7d4abe30d966a17",
+        "android_client_info": {
+          "package_name": "de.nnordman.beaf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "937833588792-5sb58ufoh7d10l9qa4uicstqo9sj4rvk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "de.nnordman.beaf",
+            "certificate_hash": "236fa13b70224c54112b723ad7984c1b4a415ac7"
+          }
+        },
+        {
+          "client_id": "937833588792-m36hi501o4buosk0tpgq9mtpda2dcfol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhh-fKuXn8mQ0cbIKHie6PB0z9hT-j0CI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "937833588792-m36hi501o4buosk0tpgq9mtpda2dcfol.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
